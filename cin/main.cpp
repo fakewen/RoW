@@ -7,6 +7,7 @@ using namespace std;
 //6:54 s
 //9:20 e
 //1
+//2
 
 inline int Factorial(int x) {
     return (x == 1 ? x : x * Factorial(x - 1));
